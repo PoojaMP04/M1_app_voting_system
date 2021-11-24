@@ -36,13 +36,13 @@ How : By developing a voting system which has user friendly Command Line Interfa
 
 ###### High Level Requirements
 - Multi Election
-- Admin Accessibility
+-  Admin Accessibility
 - Availability
 ###### Low Level Requirements
- - Privacy
+ -  Privacy
 - Authenticity
 - Accuracy
-- Security
+-  Security
 
 # Design
 ## Behavioural Diagram
