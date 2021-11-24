@@ -35,14 +35,14 @@ Where :As for conducting the election many money and manual system are required 
 How : By developing a voting system which has user friendly Command Line Interface which will help user to cast the vote and see the leading candidates.
 
 ###### High Level Requirements
-- Multi Election
+-  Multi Election
 -  Admin Accessibility
-- Availability
+-  Availability
 ###### Low Level Requirements
- -  Privacy
-- Authenticity
-- Accuracy
--  Security
+  -  Privacy
+  -   Authenticity
+  - Accuracy
+  -  Security
 
 # Design
 ## Behavioural Diagram
