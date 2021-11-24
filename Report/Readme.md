@@ -11,7 +11,7 @@ It keeps a record of every voting process.
 In this voting system it is very simple, accurate and easy to access all the features.It mainly inclues two types of panel. Voter panel and Admin Panel.The Admin can Login in and Logout option.Admin can initialize elections and add the election candidates.The admin is able to delete illegal vote ,Ban user id and able to see result aswell.The voter can login with valid User ID and vote the candidates.
 ###### SWOT Analysis
 ###### Strength of voting System
-Easy to implement.
+Easy to implement
 Easy to access the Voting System
 Votes are stored securely
 Results are accurate
