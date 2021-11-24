@@ -1,4 +1,3 @@
-
 ###### INTRODUCTION
 Voting and elections are essential ingredients of modern democratic societies.One of these methods is the modernization of the way in which the elections are being conducted is through Voting System.It completely eliminates the possibility of casting 'Invalid Votes', which during the paper ballot regime was noticed in large numbers during each election. In fact, in many cases, the number of 'Invalid Votes' exceeded the winning margin, leading to numerous complaints and litigations,It is interesting to note here that traditional/manual voting systems are slow, complex, inaccurate and inefficient.
 ###### RESEARCH
@@ -35,9 +34,9 @@ Where :As for conducting the election many money and manual system are required 
 How : By developing a voting system which has user friendly Command Line Interface which will help user to cast the vote and see the leading candidates.
 
 ###### High Level Requirements
--  Multi Election
--  Admin Accessibility
--  Availability
+  -  Multi Election
+  -  Admin Accessibility
+  -  Availability
 ###### Low Level Requirements
   -  Privacy
   -   Authenticity
