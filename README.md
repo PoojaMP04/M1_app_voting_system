@@ -13,5 +13,5 @@ Voting and elections are essential ingredients of modern democratic societies.On
 ### Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9076e7e859a34aeb8c4f7368ddf5a2da)](https://www.codacy.com/gh/PoojaMP04/M1_app_voting_system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PoojaMP04/M1_app_voting_system&amp;utm_campaign=Badge_Grade)
 
-###Cppcheck  
+### Cppcheck  
 [![CircleCI](https://circleci.com/gh/PoojaMP04/M1_app_voting_system/tree/main.svg?style=svg)](https://circleci.com/gh/PoojaMP04/M1_app_voting_system/tree/main)
